@@ -47,8 +47,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🪙 Suncoin](https://github.com/Azimml/Suncoin) | CO2 Reduction & Future of Digital Currency | JavaScript |
-| [🤖 AI Fintech Customer Support](https://github.com/Azimml/AI-fintech-customer-support) | Intelligent AI-powered customer support system | Python, Jupyter |
-| [🏧 ATM Smart System](https://github.com/Azimml/ATM-Smart-System) | Smart ATM management system | Python |
-| [💼 Goodjob](https://github.com/Azimml/Goodjob) | Job matching platform | TypeScript |
 | [⏱️ Adaptive Test Time Compute](https://github.com/Azimml/adaptive-test-time-compute) | Adaptive test time compute scaling for ML models | Python |
+| [🔍 RAG Architecture](https://github.com/Azimml/RAG-Architecture) | Retrieval-Augmented Generation architecture implementation | Python |
+| [🤖 AI Fintech Customer Support](https://github.com/Azimml/AI-fintech-customer-support) | Intelligent AI-powered customer support system | Python, Jupyter |
+| [🪙 Suncoin](https://github.com/Azimml/Suncoin) | CO2 Reduction & Future of Digital Currency | JavaScript |
+| [💼 Goodjob](https://github.com/Azimml/Goodjob) | Job matching platform | TypeScript |
+| [🏧 ATM Smart System](https://github.com/Azimml/ATM-Smart-System) | Smart ATM management system | Python |
