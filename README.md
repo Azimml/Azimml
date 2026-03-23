@@ -53,28 +53,3 @@
 | [🤖 AI Fintech Customer Support](https://github.com/Azimml/AI-fintech-customer-support) | Intelligent AI-powered customer support system | Python, Jupyter |
 | [🏧 ATM Smart System](https://github.com/Azimml/ATM-Smart-System) | Smart ATM management system | Python |
 | [💼 Goodjob](https://github.com/Azimml/Goodjob) | Job matching platform | TypeScript |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Azimml&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azimml&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Azimml&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Azimml&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <br/>
-  <i>⭐ Star my repos if you find them interesting!</i>
-</div>
