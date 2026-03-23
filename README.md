@@ -36,8 +36,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -53,3 +51,4 @@
 | [🤖 AI Fintech Customer Support](https://github.com/Azimml/AI-fintech-customer-support) | Intelligent AI-powered customer support system | Python, Jupyter |
 | [🏧 ATM Smart System](https://github.com/Azimml/ATM-Smart-System) | Smart ATM management system | Python |
 | [💼 Goodjob](https://github.com/Azimml/Goodjob) | Job matching platform | TypeScript |
+| [⏱️ Adaptive Test Time Compute](https://github.com/Azimml/adaptive-test-time-compute) | Adaptive test time compute scaling for ML models | Python |
