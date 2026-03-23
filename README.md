@@ -56,3 +56,5 @@
 | [🔍 RAG Architecture](https://github.com/Azimml/RAG-Architecture) | Retrieval-Augmented Generation architecture implementation | Python |
 | [🤖 AI Fintech Agent](https://github.com/Azimml/AI-fintech-customer-support) | Intelligent AI-powered fintech system | Python, Jupyter |
 | [🏧 ATM Smart System](https://github.com/Azimml/ATM-Smart-System) | Smart ATM management system | Python |
+
+<!-- update 1 -->
