@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi there, I'm Azim 👋</h1>
+<h1>Hi there, I'm Azimbek 👋</h1>
 <h3>Machine Learning Engineer from Tashkent, Uzbekistan 🇺🇿</h3>
 
 <a href="https://www.linkedin.com/in/azimbek-olimbekov/">
