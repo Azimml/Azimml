@@ -55,7 +55,7 @@
 | [⏱️ Adaptive Test Time Compute](https://github.com/Azimml/adaptive-test-time-compute) | Adaptive test time compute scaling for ML models | Python |
 | [🔍 RAG Architecture](https://github.com/Azimml/RAG-Architecture) | Retrieval-Augmented Generation architecture implementation | Python |
 | [🤖 AI Fintech Agent](https://github.com/Azimml/AI-fintech-customer-support) | Intelligent AI-powered fintech system | Python, Jupyter |
-| [🏧 ATM Smart System](https://github.com/Azimml/ATM-Smart-System) | Smart ATM management system | Python |
+| [🧬 AI in Genomics](https://github.com/Azimml/mutation-effect-prediction) | DNA Mutation Effect Prediction | Python |
 
 <!-- update 1 -->
 <!-- update 2 -->
