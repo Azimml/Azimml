@@ -21,7 +21,7 @@
 - 💡 Passionate about **Fintech + AI** intersections
 - 📍 Based in **Tashkent, Uzbekistan**
 - 💬 Ask me about **Python, ML pipelines, and AI systems**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/azimbek-olimbekov/)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/azimbek-olimbekov/) & azimbekolimbekov1@gmail.com
 
 ---
 
