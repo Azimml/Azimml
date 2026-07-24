@@ -52,10 +52,10 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [⏱️ Adaptive Test Time Compute](https://github.com/Azimml/adaptive-test-time-compute) | Adaptive test time compute scaling for ML models | Python |
-| [🧬 AI in Genomics](https://github.com/Azimml/mutation-effect-prediction) | DNA Mutation Effect Prediction | Python |
-| [🔍 RAG Architecture](https://github.com/Azimml/RAG-Architecture) | Retrieval-Augmented Generation architecture implementation | Python |
-| [🤖 AI Fintech Agent](https://github.com/Azimml/AI-fintech-customer-support) | Intelligent AI-powered fintech system | Python, Jupyter |
+| [🌐 Trellis-WebGPU](https://github.com/Azimml/trellis-webgpu) | 3-bit trellis-quantized 8B LLM running a full forward pass in-browser on WebGPU — no CUDA | Python, JavaScript, WebGPU |
+| [⚡ Triton Kernels](https://github.com/Azimml/triton-kernels) | High-performance GPU kernels for LLM inference (RMSNorm, SwiGLU, W4A16/W8A16 GEMMs, fused MoE) | Python, Triton, CUDA |
+| [🔬 Agent Quality Inspect](https://github.com/Azimml/agent-quality-inspect) | User-aware evaluation of agentic AI systems: subgoal metrics (AUC, PPT, pass@k) + automated error analysis | Python |
+| [⏱️ Adaptive Test Time Compute](https://github.com/Azimml/adaptive-test-time-compute) | Per-instance test-time compute scaling for LLM reasoning via consensus-based adaptive sampling | Python |
 
 <!-- update 1 -->
 <!-- update 2 -->
