@@ -1,64 +1,54 @@
 <div align="center">
 
-<h1>Hi there, I'm Azimbek 👋</h1>
-<h3>Machine Learning Engineer from Tashkent, Uzbekistan 🇺🇿</h3>
+# Hi, I'm Azimbek 👋
 
-<a href="https://www.linkedin.com/in/azimbek-olimbekov/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Azimml">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+**Machine Learning Engineer** · Tashkent, Uzbekistan 🇺🇿
+
+Systems-minded ML engineer working at the intersection of **LLM inference, quantization, and retrieval** — I like problems where the hard part is making a model actually *run* somewhere it wasn't supposed to.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azimbek-olimbekov/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:azimbekolimbekov1@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🚀 Selected work
 
-- 🔭 I'm currently working on **AI & Machine Learning projects**
-- 🌱 I'm exploring **Deep Learning, NLP, and Computer Vision**
-- 💡 Passionate about **Fintech + AI** intersections
-- 📍 Based in **Tashkent, Uzbekistan**
-- 💬 Ask me about **Python, ML pipelines, and AI systems**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/azimbek-olimbekov/) & azimbekolimbekov1@gmail.com
+Each project below is original, reproducible, and CI-tested. Benchmarks are measured, not estimated.
+
+### 🧠 [trellis-webgpu](https://github.com/Azimml/trellis-webgpu) — trellis-coded LLM quantization, outside CUDA
+The first trellis-coded quantization (TCQ) decoder — the method behind QTIP/EXL3 — to run **outside CUDA**. An 8B model executes its full forward pass **in a browser tab on WebGPU**, on a 4 GB GPU, at SOTA 3-bit quality (1.15× fp16 perplexity). From-scratch quantizer (tail-biting Viterbi, LDLQ, incoherence processing) plus a same-source cross-runtime harness that runs the exact shipping WGSL through `wgpu-py` to prove the browser code correct.
+`Python` · `WGSL / WebGPU` · `Triton` · `PyTorch`
+
+### ⏱️ [adaptive-test-time-compute](https://github.com/Azimml/adaptive-test-time-compute) — per-instance compute allocation
+A consensus-based controller that decides *how much* inference compute each question needs. **47% fewer samples and 46% fewer tokens than fixed-8 sampling at statistically indistinguishable accuracy** on 300 GSM8K questions — via a triple stopping gate that avoids the naive "two agree → stop" trap.
+`Python` · `FastAPI` · `asyncio`
+
+### 🧬 [mutation-effect-prediction](https://github.com/Azimml/mutation-effect-prediction) — leakage-aware genomics ML
+Pathogenic-vs-benign SNV classification on official ClinVar / GRCh38 data. The headline is methodological honesty: a **deterministic, region-hashed train/test split** that closes the sequence-context leakage random splits hide — under which a mutation-centered CNN reaches **0.883 AUROC** on held-out loci.
+`Python` · `PyTorch` · `scikit-learn` · `genomics`
+
+### 🔍 [RAG-Architecture](https://github.com/Azimml/RAG-Architecture) — multi-route retrieval
+A universal RAG architecture for combining and routing across multiple data sources.
+`Python`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech
+
+**Languages** · Python · Rust · TypeScript · C
+**ML / Infra** · PyTorch · Triton · WebGPU / WGSL · Transformers · scikit-learn
+**Serving** · FastAPI · Docker · REST / WebSocket
+
+---
+
+## 📌 About this profile
+
+I keep a small number of projects I can defend line-by-line rather than a large number of forks. Every repo above has a real README, a test suite, and green CI — the READMEs go all the way down if you want the deep version.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+📫 **[azimbekolimbekov1@gmail.com](mailto:azimbekolimbekov1@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/azimbek-olimbekov/)**
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [⏱️ Adaptive Test Time Compute](https://github.com/Azimml/adaptive-test-time-compute) | Adaptive test time compute scaling for ML models | Python |
-| [🧬 AI in Genomics](https://github.com/Azimml/mutation-effect-prediction) | DNA Mutation Effect Prediction | Python |
-| [🔍 RAG Architecture](https://github.com/Azimml/RAG-Architecture) | Retrieval-Augmented Generation architecture implementation | Python |
-| [🤖 AI Fintech Agent](https://github.com/Azimml/AI-fintech-customer-support) | Intelligent AI-powered fintech system | Python, Jupyter |
-
-<!-- update 1 -->
-<!-- update 2 -->
-<!-- update 3 -->
-<!-- update 4 -->
-<!-- update 5 -->
