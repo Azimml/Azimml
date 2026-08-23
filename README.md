@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi there, I'm Azimbek 👋</h1>
-<h3>Senior MLE || CUDA Engineer</h3>
+<h3>Senior Machine Learning Engineer</h3>
 
 <a href="https://www.linkedin.com/in/azimbek-olimbekov/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
