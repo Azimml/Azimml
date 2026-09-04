@@ -18,8 +18,8 @@
 
 - 🔭 I'm currently working on **AI & Machine Learning projects**
 - 🌱 I'm exploring **Deep Learning, NLP, and Computer Vision**
-- 💡 Passionate about **Fintech + AI** intersections
-- 📍 Based in **Tashkent, Uzbekistan**
+- 💡 Passionate about **Inference engines + AI** intersections
+- 📍 Based in **Berlin, Germany**
 - 💬 Ask me about **Python, ML pipelines, and AI systems**
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/azimbek-olimbekov/) & azimbekolimbekov1@gmail.com
 
