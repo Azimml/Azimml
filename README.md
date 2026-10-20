@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Azimbek Olimbekov</h1>
-<h3>Senior Machine Learning Engineer · Applied AI</h3>
+<h3>Senior Machine Learning Engineer · Applied AI · Berlin, Germany</h3>
 
 <a href="https://www.linkedin.com/in/azimbek-olimbekov/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -12,18 +12,12 @@
 
 </div>
 
----
-
 ## 🧠 About Me
 
 - 🧩 Applied ML Engineer with 4+ years of experience in agentic AI, LLM systems and workflow automation
 - ⚡ Focused on LLM inference: fine-tuning, quantization and high-throughput serving of open-weight models
 - 🔎 Building RAG systems, AI agents and LLM evaluation for production
 - 📈 Production ML: forecasting, anomaly detection and recommender systems with MLOps
-- 📍 Based in Berlin, Germany
-- 📫 [LinkedIn](https://www.linkedin.com/in/azimbek-olimbekov/) · azimbekolimbekov1@gmail.com
-
----
 
 ## 🛠️ Tech Stack
 
@@ -46,8 +40,6 @@
 
 </div>
 
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -56,9 +48,3 @@
 | [⚡ Triton Kernels](https://github.com/Azimml/triton-kernels) | High-performance GPU kernels for LLM inference (RMSNorm, SwiGLU, W4A16/W8A16 GEMMs, fused MoE) | Python, Triton, CUDA |
 | [🔬 Agent Quality Inspect](https://github.com/Azimml/agent-quality-inspect) | User-aware evaluation of agentic AI systems: subgoal metrics (AUC, PPT, pass@k) + automated error analysis | Python, Agent Eval, LLM |
 | [⏱️ Adaptive Test Time Compute](https://github.com/Azimml/adaptive-test-time-compute) | Per-instance test-time compute scaling for LLM reasoning via consensus-based adaptive sampling | Python, GSM8K, Consensus Sampling |
-
-<!-- update 1 -->
-<!-- update 2 -->
-<!-- update 3 -->
-<!-- update 4 -->
-<!-- update 5 -->
