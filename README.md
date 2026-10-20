@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1>Hi there, I'm Azimbek 👋</h1>
-<h3>Senior Machine Learning Engineer</h3>
+<h1>Azimbek Olimbekov</h1>
+<h3>Senior Machine Learning Engineer · Applied AI</h3>
 
 <a href="https://www.linkedin.com/in/azimbek-olimbekov/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/Azimml">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="mailto:azimbekolimbekov1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -16,12 +16,12 @@
 
 ## 🧠 About Me
 
-- 🔭 I'm currently working on **AI & Machine Learning projects**
-- 🌱 I'm exploring **Deep Learning, NLP, and Computer Vision**
-- 💡 Passionate about **Inference engines + AI** intersections
-- 📍 Based in **Berlin, Germany**
-- 💬 Ask me about **Python, ML pipelines, and AI systems**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/azimbek-olimbekov/) & azimbekolimbekov1@gmail.com
+- 🧩 Applied ML Engineer with 4+ years of experience in agentic AI, LLM systems and workflow automation
+- ⚡ Focused on LLM inference: fine-tuning, quantization and high-throughput serving of open-weight models
+- 🔎 Building RAG systems, AI agents and LLM evaluation for production
+- 📈 Production ML: forecasting, anomaly detection and recommender systems with MLOps
+- 📍 Based in Berlin, Germany
+- 📫 [LinkedIn](https://www.linkedin.com/in/azimbek-olimbekov/) · azimbekolimbekov1@gmail.com
 
 ---
 
